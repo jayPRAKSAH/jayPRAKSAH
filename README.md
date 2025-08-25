@@ -1,12 +1,11 @@
 - 👋 # Hi 👋, I’m Jay Prakash Kumar  
 
-🔭 I’m passionate about creating **innovative projects** like a Web Highlighter Browser Extension and a Gamified Life Action App inspired by *Solo Leveling*.  
+🔭 I’m passionate about creating **innovative projects** like a Web Highlighter Browser Extension and a Gamified Life Action App 
 🌱 Currently learning **Data Structures & Algorithms (DSA)** and **Machine Learning**.  
 👯 Open to collaborate on **SaaS ideas with low competition** or **creative projects** using **React** and **Tailwind CSS**.  
 🤔 Exploring **Blockchain** and **Go programming**.  
-💬 Ask me about **Java development, digital electronics concepts, or building Chrome extensions**.  
+💬 Ask me about ** web development, digital electronics concepts, or building Chrome extensions**.  
 📫 Reach me here: [GitHub](https://github.com/jayPRAKSAH)  
-😄 Pronouns: **He/Him**  
 ⚡ Fun fact: I love mixing **technology with creativity** to build futuristic ideas 🚀  
 
 ---
